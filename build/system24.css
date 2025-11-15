@@ -484,7 +484,7 @@ body {
     *,
     *::before,
     *::after {
-        border-radius: 0 !important;
+        border-radius: 5 !important;
     }
 
     .svg_cc5dd2 > mask,
@@ -557,7 +557,7 @@ body {
     }
 
     ::-webkit-scrollbar-thumb {
-        border-radius: 0 !important;
+        border-radius: 5 !important;
     }
 }
 
